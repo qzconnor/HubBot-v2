@@ -1,0 +1,24 @@
+{
+  "name": "hubbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "@r6stats/node": "^4.0.0-alpha3",
+    "discord.js": "^12.4.1",
+    "discord.js-commando": "github:discordjs/Commando",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.2.7",
+    "fluent-ffmpeg": "^2.1.2",
+    "node-fetch": "^2.6.1",
+    "rainbowsix-api-node": "0.0.1",
+    "youtube-sr": "^1.0.7",
+    "ytdl-core": "^4.5.0"
+  }
+}
